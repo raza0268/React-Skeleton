@@ -1,2 +1,2 @@
 ### React components exercise
-By Kelly Garrett
+By Syed Raza Mehdi
