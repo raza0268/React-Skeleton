@@ -20,9 +20,12 @@
   "dependencies": {
     "babel-preset-react": "^6.1.18",
     "babelify": "^7.2.0",
-    "react": "^0.14.3",
-    "react-dom": "^0.14.3",
-    "watchify": "^3.6.1",
-    "http-server": "^0.11.1"
+    "create-react-class": "^15.6.3",
+    "history": "^4.10.1",
+    "http-server": "^0.11.1",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-router-dom": "^5.1.2",
+    "watchify": "^3.6.1"
   }
 }
