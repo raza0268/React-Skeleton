@@ -19,7 +19,7 @@
   "homepage": "https://github.com/raza0268/React-Skeleton#readme",
   "dependencies": {
     "babel-preset-react": "^6.1.18",
-    "babelify": "^7.2.0",
+    "babelify": "^10.0.0",
     "react": "^0.14.3",
     "react-dom": "^0.14.3",
     "watchify": "^3.6.1"
